@@ -2,8 +2,8 @@
   "name": "meu-app",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT",
-    "dev": "node server.js"
+    "start": "node server.js",
+    "dev": "json-server --watch db.json --port 3001"  
   },
   "dependencies": {
     "json-server": "^0.16.1"
