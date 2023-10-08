@@ -1,0 +1,64 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "Nome": "João Silva",
+      "CPF": "123.456.789-00",
+      "Data de Nascimento": "15/08/1985"
+    },
+    {
+      "id": 2,
+      "Nome": "Maria Oliveira",
+      "CPF": "987.654.321-00",
+      "Data de Nascimento": "20/04/1990"
+    },
+    {
+      "id": 3,
+      "Nome": "Pedro Santos",
+      "CPF": "456.789.123-00",
+      "Data de Nascimento": "10/12/1982"
+    },
+    {
+      "id": 4,
+      "Nome": "Camila Souza",
+      "CPF": "111.222.333-00",
+      "Data de Nascimento": "05/06/1978"
+    },
+    {
+      "id": 5,
+      "Nome": "Ricardo Lima",
+      "CPF": "555.444.777-00",
+      "Data de Nascimento": "25/09/1995"
+    },
+    {
+      "id": 6,
+      "Nome": "Amanda Ferreira",
+      "CPF": "987.123.456-00",
+      "Data de Nascimento": "08/03/1989"
+    },
+    {
+      "id": 7,
+      "Nome": "Fernando Costa",
+      "CPF": "777.888.999-00",
+      "Data de Nascimento": "12/07/1970"
+    },
+    {
+      "id": 8,
+      "Nome": "Juliana Mendes",
+      "CPF": "222.333.555-00",
+      "Data de Nascimento": "19/01/1987"
+    },
+    {
+      "id": 9,
+      "Nome": "Lucas Oliveira",
+      "CPF": "999.888.777-00",
+      "Data de Nascimento": "02/11/1983"
+    },
+    {
+      "id": 10,
+      "Nome": "Carolina Ribeiro",
+      "CPF": "444.555.666-00",
+      "Data de Nascimento": "14/10/1992"
+    }
+  ]
+}
