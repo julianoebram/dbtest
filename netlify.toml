@@ -1,3 +1,6 @@
 [build]
+
+command = "npm install json-server --save-dev"
+
 command = "json-server --watch db.json --port $PORT"
 publish = "public" 
